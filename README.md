@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @MohKara
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on android devlopement
-- 📫 How to reach me ...
+Hi I am Mohamed Kara from Algeria 
+I am one f three AnoTeam founders .....
 
-<!---
-MohKara/MohKara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Cyber-Security*Python*GO-Lang*Blockchain*
