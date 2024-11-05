@@ -1,4 +1,1 @@
-Hi I am Mohamed Kara from Algeria 
-I am one f three AnoTeam founders .....
-
-*Cyber-Security*Python*GO-Lang*Blockchain*
+Hello i'm Mohamed Kara from Algeria ,a React web developer .
